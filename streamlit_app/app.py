@@ -3,7 +3,7 @@ import helper
 import pickle
 
 
-model = pickle.load(open('\models\model.pkl', 'rb'))
+model = pickle.load(open('models/model.pkl', 'rb'))
 
 st.header('Duplicate Question Pairs')
 

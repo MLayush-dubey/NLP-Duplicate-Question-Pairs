@@ -563,12 +563,12 @@ in the Software without restriction...
 **Ayush Dubey**
 
 [![GitHub](https://img.shields.io/badge/GitHub-MLayush--dubey-black?style=flat&logo=github)](https://github.com/MLayush-dubey)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayush-dubey-69860522a/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:aadubey1106@gmail.com)
 
 ### Get Support
 
-- 📫 **Email**: your.email@example.com
+- 📫 **Email**: aadubey1106@gmail.com
 - 💬 **Issues**: [GitHub Issues](https://github.com/MLayush-dubey/NLP-Duplicate-Question-Pairs/issues)
 - 💡 **Discussions**: [GitHub Discussions](https://github.com/MLayush-dubey/NLP-Duplicate-Question-Pairs/discussions)
 
@@ -586,28 +586,14 @@ Special thanks to:
 
 - **[Quora](https://www.quora.com/)** for providing the dataset via Kaggle
 - **[Kaggle](https://www.kaggle.com/)** for hosting the competition and dataset
-- **[CampusX](https://github.com/campusx-official)** for the original project inspiration
 - **[Streamlit](https://streamlit.io/)** team for the amazing web framework
 - **Open Source Community** for the incredible libraries and tools
 - **Contributors** who have helped improve this project
 
 ### Inspired By
-- [CampusX Quora Question Pairs](https://github.com/campusx-official/quora-question-pairs)
 - Kaggle Quora Question Pairs Competition
 
 ---
-
-## 📊 Project Stats
-
-![GitHub repo size](https://img.shields.io/github/repo-size/MLayush-dubey/NLP-Duplicate-Question-Pairs)
-![GitHub language count](https://img.shields.io/github/languages/count/MLayush-dubey/NLP-Duplicate-Question-Pairs)
-![GitHub top language](https://img.shields.io/github/languages/top/MLayush-dubey/NLP-Duplicate-Question-Pairs)
-![GitHub last commit](https://img.shields.io/github/last-commit/MLayush-dubey/NLP-Duplicate-Question-Pairs)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/MLayush-dubey/NLP-Duplicate-Question-Pairs)
-
----
-
-<div align="center">
 
 ### ⭐ Star this repository if you found it helpful!
 

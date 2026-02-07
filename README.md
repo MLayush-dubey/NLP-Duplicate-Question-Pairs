@@ -16,27 +16,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [Overview](#-overview)
-- [Live Demo](#-live-demo)
-- [Key Features](#-key-features)
-- [Project Architecture](#-project-architecture)
-- [Dataset](#-dataset)
-- [Installation & Setup](#-installation--setup)
-- [Usage Guide](#-usage-guide)
-- [Model Development](#-model-development)
-- [Project Structure](#-project-structure)
-- [Technologies Used](#-technologies-used)
-- [Performance Metrics](#-performance-metrics)
-- [Experiments & Notebooks](#-experiments--notebooks)
-- [Future Enhancements](#-future-enhancements)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Contact](#-contact)
-
----
-
 ## 🎯 Overview
 
 The **NLP Duplicate Question Pairs Detection** project addresses a critical challenge faced by Q&A platforms like Quora, Stack Overflow, and community forums: identifying whether two questions are asking the same thing despite different wording.
